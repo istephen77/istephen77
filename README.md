@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/istephen77](https://github.com/istephen77)
 
-- 💬 Ask me about **Python, SQL, Statistics and Machine Learning**
+- 💬 Ask me about **Python, SQL, Statistics, Data Engineering and Machine Learning**
 
 - 📫 How to reach me **stephin.sebastian96@gmail.com**
 
